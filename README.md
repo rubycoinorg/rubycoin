@@ -1,0 +1,2 @@
+# rubycoin
+Ruby Coin
