@@ -1,7 +1,7 @@
-# Ruby Technology Security Information
+# Ruby Coin Security Information
 
 ## Link to vulnerability disclosure details (Bug Bounty).
-- Websites and Applications: https://hackerone.com/polygon-technology
+- Websites and Applications: https://hackerone.com/Rubycoin
 - Smart Contracts: https://immunefi.com/bounty/Ruby
 
 ## Languages that our team speaks and understands.
